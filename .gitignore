@@ -1,0 +1,6 @@
+*.class
+*SNAPSHOT*.jar
+.classpath
+.project
+.settings/
+/target/*
